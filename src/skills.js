@@ -1,0 +1,25 @@
+export const skills = [
+  "Semantic & accessible HTML",
+  "Responsive Web Design",
+  "Teamwork",
+  "Markdown",
+  "NPM",
+  "Immutability",
+  "CSS BEM convention",
+  "CSS Grid",
+  "CSS Flexbox",
+  "React",
+  "React Router",
+  "React Hooks",
+  "Redux (Toolkit)",
+  "Working with API(fetch,axios)",
+  "Error handling",
+  "Promises, Async/Await",
+  "JavaScript: ES6+",
+  "Git",
+  "GitHub Pull Requests & Review",
+  "Trello",
+  "Scrum",
+];
+
+export const skillsToLearn = ["TypeScript", "Node.js", "React Native"];

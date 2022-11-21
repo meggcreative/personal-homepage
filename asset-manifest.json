@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/meggcreative/personal-homepage.git/static/css/main.073c9b0a.css",
+    "main.js": "/meggcreative/personal-homepage.git/static/js/main.27df125b.js",
+    "static/js/787.162bc9a0.chunk.js": "/meggcreative/personal-homepage.git/static/js/787.162bc9a0.chunk.js",
+    "static/media/mzulewska.jpg": "/meggcreative/personal-homepage.git/static/media/mzulewska.313583017c480d260569.jpg",
+    "static/media/Instagram.svg": "/meggcreative/personal-homepage.git/static/media/Instagram.ac575dc2f80befa7ba993f0a04ba6dda.svg",
+    "static/media/Github.svg": "/meggcreative/personal-homepage.git/static/media/Github.09abe07d9aebd72f04b4118999889c9a.svg",
+    "index.html": "/meggcreative/personal-homepage.git/index.html",
+    "static/media/gitIcon.svg": "/meggcreative/personal-homepage.git/static/media/gitIcon.571d1ccb5b05142ffef2ab4d835a907a.svg",
+    "static/media/LinkedIN.svg": "/meggcreative/personal-homepage.git/static/media/LinkedIN.2c26b104242a1c77c13c1498fc1cd787.svg",
+    "static/media/envelope.svg": "/meggcreative/personal-homepage.git/static/media/envelope.4f12dcc445764aefd1b5362f9301f88a.svg",
+    "static/media/Facebook.svg": "/meggcreative/personal-homepage.git/static/media/Facebook.14f43e9c25d473ecd49ceaf878f965b9.svg",
+    "static/media/ellipse.svg": "/meggcreative/personal-homepage.git/static/media/ellipse.41506939970e6369828dfce4b6919035.svg",
+    "main.073c9b0a.css.map": "/meggcreative/personal-homepage.git/static/css/main.073c9b0a.css.map",
+    "main.27df125b.js.map": "/meggcreative/personal-homepage.git/static/js/main.27df125b.js.map",
+    "787.162bc9a0.chunk.js.map": "/meggcreative/personal-homepage.git/static/js/787.162bc9a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.27df125b.js"
+  ]
+}

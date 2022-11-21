@@ -1,6 +1,6 @@
 import "./App.css";
 import { Container } from "./components/Container";
-import { HeaderHeader } from "./components/HeaderHeader";
+import { Header } from "./components/Header";
 import { skills, skillsToLearn } from "./skills.js";
 import { Skills } from "./components/Skills";
 import { Portfolio } from "./components/Portfolio";
@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Container>
-        <HeaderHeader />
+        <Header />
         <main>
           <Skills title="My Skillset includes 🛠" skills={skills} />
           <Skills title="What I want to learn next 🚀" skills={skillsToLearn} />

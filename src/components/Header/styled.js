@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { ReactComponent as EnvelopeIcon } from "./envelope.svg";
 
-export const Header = styled.header`
+export const StyledHeader = styled.header`
   display: grid;
   grid-template-columns: auto 1fr;
   align-items: center;

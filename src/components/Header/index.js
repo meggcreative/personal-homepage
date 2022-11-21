@@ -2,7 +2,7 @@ import {
   AboutPerson,
   ButtonIcon,
   ButtonWork,
-  Header,
+  StyledHeader,
   Image,
   Introduction,
   LinkToMail,
@@ -11,9 +11,9 @@ import {
 } from "./styled";
 import meggZulewska from "./mzulewska.jpg";
 
-export const HeaderHeader = () => (
+export const Header = () => (
   <>
-    <Header>
+    <StyledHeader>
       <Image src={meggZulewska} alt="Megg Żulewska"></Image>
       <PersonalInfo>
         <Introduction>This is</Introduction>
@@ -32,6 +32,6 @@ export const HeaderHeader = () => (
           </LinkToMail>
         </ButtonWork>
       </PersonalInfo>
-    </Header>
+    </StyledHeader>
   </>
 );

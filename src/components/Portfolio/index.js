@@ -1,3 +1,4 @@
+import { Error } from "./Body/Error";
 import { Body, Header, Icon, Section, Subtitle, Title } from "./styled";
 
 export const Portfolio = () => (
@@ -8,7 +9,9 @@ export const Portfolio = () => (
         <Title>Portfolio</Title>
         <Subtitle>My recent projects</Subtitle>
       </Header>
-      <Body></Body>
+      <Body>
+        <Error></Error>
+      </Body>
     </Section>
   </>
 );

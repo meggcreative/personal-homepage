@@ -30,8 +30,8 @@ export const {
 
 export const selectPersonalHomePageState = (state) => state.personalHomepage;
 export const selectPersonalHomePageStatus = (state) =>
-  selectPersonalHomePageStatus(state).status;
+  selectPersonalHomePageState(state).status;
 export const selectPersonalHomePageRepo = (state) =>
-  selectPersonalHomePageStatus(state).repositories;
+  selectPersonalHomePageState(state).repositories;
 
 export default personalHomePageSlice.reducer;

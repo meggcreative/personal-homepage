@@ -10,6 +10,7 @@ import {
   Summary,
 } from "./styled";
 
+export const myDummyValue={}
 export const Footer = () => (
   <>
     <StyledFooter>
